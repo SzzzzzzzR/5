@@ -1,4 +1,4 @@
-token= NTUxODM0MDU0MDk4NjgxODY4.D12vIA.fqfb3ptRedJ4XUgJcDhkngaI5fg
+token= NTUxODM0MDU0MDk4NjgxODY4.D12xOg.t6jYozeKvh-SV4GBqel_sclFfnU
 owner=464276425847996437 
 prefix= 4
 game= Tyep 4help
